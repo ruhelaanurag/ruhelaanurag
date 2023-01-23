@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anurag
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning about Cloud concepts
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about Javascript and Cloud concepts
+- 💞️ I’m looking to collaborate on js and csharp projects
 
 <!---
 ruhelaanurag/ruhelaanurag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
